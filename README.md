@@ -18,6 +18,8 @@
 
 #### 📫 We can be contacted at: Matt@DistortedDigital.com
 
+###### *Distorted Digital is currently under development itself and is not yet accepting requests. We will change this status shortly! Thank you for your patience!* 💖
+
 <!---
 Distorted-Digital/Distorted-Digital is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
